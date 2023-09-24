@@ -1,0 +1,37 @@
+[
+    {
+      "Title": "HEALTHCARE APPOINTMENT SCHEDULER",
+      "link": "https://github.com/SkSaadAli/Django_Medical_Website",
+      "Time": "2023(Aug) - 2023(Sep)",
+      "description": "Medical scheduling website, facilitating patient-doctor interaction through user authentication, appointment scheduling, and event creation via Google API integration.",
+      "img": "assets/project_img/HEALTHCARE APPOINTMENT SCHEDULER/Capture.PNG"
+    },
+    {
+        "Title": "TWIZZER TWITTER EMOTION ANALYZER GUI",
+        "link": "https://github.com/SkSaadAli/Twitter_Sentiment_Analyzer",
+        "Time": "2023(Feb) - 2023(Apr)",
+        "description": "An 88% accurate real-time emotion prediction application with a user-friendly GUI, utilizing a trained LSTM model on a massive Twitter dataset.",
+        "img": "assets/project_img/TWIZZER TWITTER EMOTION ANALYZER GUI/Capture.PNG"
+      },
+    {
+      "Title": "IMAGINATION A DJANGO PROJECT",
+      "link": "https://github.com/SkSaadAli/Imagination_Django_Project_",
+      "Time": "2022(Dec) - 2023(Jan)",
+      "description": "Mobile-responsive website, featuring the MVT design pattern for user logins, comments, categories, and CRUD operations, achieving a dynamic and interactive blogging platform.",
+      "img": "assets/project_img/IMAGINATION A DJANGO PROJECT/Capture.PNG"
+    },
+      {
+        "Title": "FLASK WEB SCRAPER",
+        "link": "https://github.com/SkSaadAli/scrapper_flask_app",
+        "Time": "2022(Jun) - 2022(July)",
+        "description": "A highly scalable and secure Web Scraping Application, achieving a remarkable 60% reduction in data gathering time through effective implementation of asynchronous programming.",
+        "img": "assets/project_img/FLASK WEB SCRAPER/Capture.PNG"
+      },
+      {
+        "Title": "FLASK CRUD API USING MONGODB",
+        "link": "https://github.com/SkSaadAli/Flask_CRUD_API_using_MongoDB",
+        "Time": "2022(Mar) - 2022(Apr)",
+        "description": "Flask app for MongoDB CRUD operations, including RESTful API endpoints for user management, achieving seamless MongoDB integration, Docker containerization for consistent deployment.",
+        "img": "assets/project_img/FLASK CRUD API USING MONGODB/Capture.PNG"
+      }
+  ]
