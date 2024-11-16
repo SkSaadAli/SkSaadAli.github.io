@@ -1,9 +1,14 @@
-[
+[   {
+        "title": "Software Developer (Python)",
+        "time": "2023(Oct) - Present",
+        "company": "Binary Semantics Limited",
+        "description": "Engineered a secure, scalable chatbot with Rasa, optimized document preprocessing (45% faster), improved consignment filtering (50%), and streamlined API flows and reporting. Developed an ERP-to-AWS S3 migration pipeline."
+    },
     {
-      "title": "Data Structures and Algorithms Teaching Assisstant Intern",
-      "time": "2023(Sep) - Present",
-      "company": "Stealth Startup",
-      "description": "Actively addressing student doubts related to Data Structures and Algorithms (DSA) while providing assistance to instructors in various tasks"
+        "title": "Data Structures and Algorithms Teaching Assistant Intern",
+        "time": "2023(Sep) - 2023(Oct)",
+        "company": "Stealth Startup",
+        "description": "Guided 30+ students in Data Structures and Algorithms, resolving complex queries and collaborating with instructors to enhance lecture content."
     },
     {
       "title": "Web Development Intern",
@@ -12,9 +17,9 @@
       "description": "Created and collaborated on real-world Web projects to meet industry and company standards."
     },
     {
-      "title": "Freelance Python Developer",
-      "time": "2023(Jan) - 2023(June)",
-      "company": "Self Employed",
-      "description": "Developing Python applications specializing in backend development while meeting client's requirements."
+        "title": "Freelance Python Developer",
+        "time": "2023(Jan) - 2023(June)",
+        "company": "Self Employed",
+        "description": "Designed and implemented scalable web scraping solutions, automating data workflows and reducing scraping time by 60% using asynchronous programming."
     }
   ]
